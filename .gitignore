@@ -1,0 +1,6 @@
+.DS_Store
+.next
+_static
+build
+node_modules
+out

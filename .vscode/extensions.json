@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "naumovs.color-highlight",
+    "esbenp.prettier-vscode",
+    "styled-components.vscode-styled-components",
+    "stylelint.vscode-stylelint"
+  ]
+}
