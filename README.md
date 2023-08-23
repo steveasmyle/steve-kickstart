@@ -1,4 +1,3 @@
-Kickstart project template
-Steve Arnott
-What's up with husky?
-Weirdness with husky
+# bizzabo-studios-hello-world
+A Hello World widget for Bizzabo Studios proof of concept
+Commit Test
